@@ -65,7 +65,4 @@ If everything is set correctly, the bot will start posting affiliate products au
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 </p>
 
-<h2>📜 License</h2>
-<p>
-This project is licensed under the MIT License.
-</p>
+
